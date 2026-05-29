@@ -1,0 +1,22 @@
+{
+  "name": "EliGlow Nails",
+  "short_name": "EliGlow",
+  "description": "Uñas y belleza - Tu espacio de cuidado personal",
+  "start_url": "/eliglownails/",
+  "scope": "/eliglownails/",
+  "display": "standalone",
+  "background_color": "#ec4899",
+  "theme_color": "#ec4899",
+  "icons": [
+    {
+      "src": "/eliglownails/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/eliglownails/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
