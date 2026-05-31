@@ -1,6 +1,6 @@
 // sw.js - Service Worker para EliGlow Nails
 
-const CACHE_NAME = 'eliglownails-v1';
+const CACHE_NAME = 'eliglownails-v47';
 const urlsToCache = [
   '/eliglownails/',
   '/eliglownails/index.html',
@@ -17,7 +17,14 @@ const urlsToCache = [
   '/eliglownails/icons/icon-152x152.png',
   '/eliglownails/icons/icon-192x192.png',
   '/eliglownails/icons/icon-384x384.png',
-  '/eliglownails/icons/icon-512x512.png'
+  '/eliglownails/icons/icon-512x512.png',
+  '/eliglownails/vendor/react.production.min.js',
+  '/eliglownails/vendor/react-dom.production.min.js',
+  '/eliglownails/vendor/babel.min.js',
+  '/eliglownails/vendor/bcrypt.min.js',
+  '/eliglownails/vendor/tailwind-browser.js',
+  '/eliglownails/vendor/lucide/lucide.css',
+  '/eliglownails/vendor/lucide/lucide.woff2'
 ];
 
 // ============================================
