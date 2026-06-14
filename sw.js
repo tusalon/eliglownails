@@ -1,6 +1,6 @@
 // sw.js - Service Worker para EliGlow Nails
 
-const CACHE_NAME = 'eliglownails-v49';
+const CACHE_NAME = 'eliglownails-v53';
 const urlsToCache = [
   '/eliglownails/',
   '/eliglownails/index.html',
